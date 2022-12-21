@@ -77,7 +77,7 @@ csiカメラを使用する場合はこのオプションを追加する
 モザイクの粗さを変更する
 0～99 を設定可能で、99が最も粗くなる
 
-![粗さ]([https://user-images.githubusercontent.com/121159170/208865003-4bcd88eb-7852-4078-879d-f4cd0069e608.PNG](https://user-images.githubusercontent.com/121159170/208866923-0a131d6d-b282-4c45-9ebe-e2769be5a6a1.PNG))
+![粗さ](https://user-images.githubusercontent.com/121159170/208866923-0a131d6d-b282-4c45-9ebe-e2769be5a6a1.PNG)
 
  
 `-c`
