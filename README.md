@@ -47,17 +47,17 @@
    $ cd eye_mosaic
    ```
    ```
-    $ python3 eye_mosaic.py [-h] [--csi]
-                            [--roughness(0,99)]
-                            [--camera CAMERA_NUM] [--face]
+   $ python3 eye_mosaic.py [-h] [--csi]
+                           [--roughness(0,99)]
+                           [--camera CAMERA_NUM] [--face]
                          
-      optional arguments:
-        -h, --help         show this help message and exit
-        --csi              Use CSI camera
-        --roughness, -r    roughness of the mosaic(between 0 and 100)
-        --camera CAMERA_NUM, -c CAMERA_NUM
-                           Camera number
-        --face, -f         blur a face
+     optional arguments:
+       -h, --help         show this help message and exit
+       --csi              Use CSI camera
+       --roughness, -r    roughness of the mosaic(between 0 and 100)
+       --camera CAMERA_NUM, -c CAMERA_NUM
+                          Camera number
+       --face, -f         blur a face
    ```
 
 コマンドを実行すると、カメラの映像が出力され
