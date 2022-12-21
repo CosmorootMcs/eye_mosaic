@@ -55,7 +55,7 @@ $ `python3 eye_mosaic.py`
 
 カメラに顔が映ると、モザイクがかかる
 
-https://qiita.com/r_midori/items/2c4feb5de05535441bc8
+![動画実行サンプル](https://user-images.githubusercontent.com/121159170/208865003-4bcd88eb-7852-4078-879d-f4cd0069e608.PNG)
 
 キーボードのQを押すと終了する
 
@@ -76,6 +76,8 @@ csiカメラを使用する場合はこのオプションを追加する
 
 モザイクの粗さを変更する
 0～99 を設定可能で、99が最も粗くなる
+
+
  
 `-c`
 `--camera`
