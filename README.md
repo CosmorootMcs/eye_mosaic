@@ -55,6 +55,8 @@ $ `python3 eye_mosaic.py`
 
 カメラに顔が映ると、モザイクがかかる
 
+https://qiita.com/r_midori/items/2c4feb5de05535441bc8
+
 キーボードのQを押すと終了する
 
 #### オプション
