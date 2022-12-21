@@ -89,6 +89,8 @@ csiカメラを使用する場合はこのオプションを追加する
 
 顔全体へのモザイクをかける
 
+![顔へのモザイク](https://user-images.githubusercontent.com/121159170/208868732-fbe7bc77-7fa4-47d6-a9cf-f5de2d498ce2.PNG)
+
 #### コマンド例
 
 USBウェブカメラ(カメラ番号0)、粗さ30
