@@ -54,10 +54,10 @@
      optional arguments:
        -h, --help         show this help message and exit
        --csi              Use CSI camera
-       --roughness, -r    roughness of the mosaic(between 0 and 100)
-       --camera CAMERA_NUM, -c CAMERA_NUM
+       -r, --roughness    roughness of the mosaic(between 0 and 100)
+       -c CAMERA_NUM, --camera CAMERA_NUM
                           Camera number
-       --face, -f         blur a face
+       -f, --face         blur a face
    ```
 
 コマンドを実行すると、カメラの映像が出力され
@@ -80,18 +80,18 @@ CSIカメラを使用する場合はこのオプションを追加する
 モザイクの粗さを変更する
 0～99 を設定可能で、99が最も粗くなる
    ```
-   --roughness, -r
+   -r, --roughness 
    ```
 
 ![粗さ](https://user-images.githubusercontent.com/121159170/208866923-0a131d6d-b282-4c45-9ebe-e2769be5a6a1.PNG)
 
 使用するカメラの番号を選択する (参照：/dev/video*)
    ```
-   --camera *, -c *
+   -c *, --camera *
    ```
 顔全体へのモザイクをかける
    ```
-   --face, -f`
+   -f, --face
    ```
 ![顔へのモザイク](https://user-images.githubusercontent.com/121159170/208868732-fbe7bc77-7fa4-47d6-a9cf-f5de2d498ce2.PNG)
 
@@ -99,7 +99,7 @@ CSIカメラを使用する場合はこのオプションを追加する
 
 USBウェブカメラ(カメラ番号0)、粗さ30
    ```
-   $ python3 eye_mosaic.py --roughness 30 -c 0
+   $ python3 eye_mosaic.py --camera 0 --roughness 30
    ```
 csiカメラ(カメラ番号1)、粗さ80、顔全体にモザイク 
    ```
