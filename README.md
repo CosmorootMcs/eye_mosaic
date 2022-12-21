@@ -3,6 +3,7 @@
 
 https://youtu.be/uGfYNeE_dLY
 
+![動画実行サンプル](https://user-images.githubusercontent.com/121159170/208865003-4bcd88eb-7852-4078-879d-f4cd0069e608.PNG)
 
 [動画リンク](https://github.com/yoru73/eye_mosaic)
 
