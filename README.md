@@ -56,10 +56,10 @@ Jetson nanoに接続した USBウェブカメラ または CSIカメラの映像
                          
      optional arguments:
        -h, --help         show this help message and exit
-       --csi              Use CSI camera
+       --csi              use CSI camera
        -r, --roughness    roughness of the mosaic(between 0 and 100)
        -c CAMERA_NUM, --camera CAMERA_NUM
-                          Camera number
+                          camera number
        -f, --face         blur a face
    ```
 
