@@ -29,7 +29,7 @@ Jetson nanoに接続した USBウェブカメラ または CSIカメラの映像
 ## インストール方法
 ファイルのダウンロード
    ```
-   $ git clone https://github.com/yoru73/eye_mosaic
+   $ git clone https://github.com/CosmorootMcs/eye_mosaic
    ```
 環境のインストール
    ```
