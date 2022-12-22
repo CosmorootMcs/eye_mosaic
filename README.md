@@ -1,7 +1,7 @@
 # eye_mosaic
 
 ## DEMO
-![eye_mosaic](https://user-images.githubusercontent.com/121159170/209026477-fe92d9fc-9968-4ed2-a865-1914e94f85c5.gif)
+![eye_mosaic](https://user-images.githubusercontent.com/121159170/209026626-af6ddac4-ed43-4377-83d4-50c0a04528c0.gif)
 
 
 ## 目次
