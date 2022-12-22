@@ -3,6 +3,8 @@
 ## DEMO
 ![eye_mosaic](https://user-images.githubusercontent.com/121159170/209026626-af6ddac4-ed43-4377-83d4-50c0a04528c0.gif)
 
+[![動画リンク](https://img.youtube.com/vi/7SpeD7yOXh8/0.jpg)](https://www.youtube.com/watch?v=7SpeD7yOXh8)
+
 
 ## 目次
 - [動作概要](https://github.com/CosmorootMcs/eye_mosaic#%E5%8B%95%E4%BD%9C%E6%A6%82%E8%A6%81)
