@@ -3,7 +3,7 @@
 ## DEMO
 ![eye_mosaic](https://user-images.githubusercontent.com/121159170/209026626-af6ddac4-ed43-4377-83d4-50c0a04528c0.gif)
 
-![動画リンク](https://www.youtube.com/watch?v=7SpeD7yOXh8)
+[動画リンク](https://www.youtube.com/watch?v=7SpeD7yOXh8)
 
 
 ## 目次
