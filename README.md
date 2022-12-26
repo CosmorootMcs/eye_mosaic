@@ -68,8 +68,8 @@ and if a face is detected, it will be mosaicked.
 
 ![動画実行サンプル_600p](https://user-images.githubusercontent.com/121159170/209489999-98afaef8-1519-4682-a2f0-21c0419940a4.png)
 
-#### オプション
-ヘルプ画面を表示する
+#### Option
+Display help screen
    ```
    -h, --help
    ```
@@ -79,7 +79,7 @@ If you use CSI cameras, add this option.
    --csi
    ```
 
-Change the coarseness of the mosaic. 
+Change the roughness of the mosaic. 
 Can be set from 0 to 99, 99 being the coarsest.
    ```
    -r, --roughness 
@@ -87,24 +87,24 @@ Can be set from 0 to 99, 99 being the coarsest.
 
 ![モザイクの粗さ_600p](https://user-images.githubusercontent.com/121159170/209489907-a6c4203a-bf43-41a1-a28a-52a4b8d9e3c6.png)
 
-使用するカメラの番号を選択する (参照：/dev/video*)
+Select the camera number to use (reference：/dev/video*)
    ```
    -c *, --camera *
    ```
-顔全体にモザイクをかける
+Mosaic all over the face
    ```
    -f, --face
    ```
 ![顔モザイク](https://user-images.githubusercontent.com/121159170/209027050-cc40bd85-40b9-4dca-a526-306b5240bf68.png)
 
 
-#### コマンド例
+#### Command example
 
-USBウェブカメラ(カメラ番号0)、粗さ30
+USB Web camera(No.0), roughness : 30
    ```
    $ python3 eye_mosaic.py --camera 0 --roughness 30
    ```
-csiカメラ(カメラ番号1)、粗さ80、顔全体にモザイクをかける
+CSI camera(No.1), roughness : 80, Mosaic all over the face
    ```
    $ python3 eye_mosaic.py --csi -c 1 -r 80 -f
    ```
