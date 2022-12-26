@@ -32,6 +32,7 @@ Install this application.
    ```
 Install the dependent modules.
    ```
+   $ cd eye_mosaic
    $ pip3 install -r requirements.txt
    ```
 
