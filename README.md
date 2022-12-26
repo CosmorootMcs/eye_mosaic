@@ -14,7 +14,8 @@
 
 
 ## Operation overview
-The eye_mosaic project detects the front face of a person from the image of a USB webcam or CSI camera connected to Jetson nano,Mosaic the eyes or the entire face in real time.Multiple faces can be detected at the same time, and the coarseness of the mosaic can be changed as an option. 
+The eye_mosaic project detects the front face of a person from the image of a USB webcam or CSI camera connected to Jetson nano,Mosaic the eyes or the entire face in real time.
+Multiple faces can be detected at the same time, and the coarseness of the mosaic can be changed as an option. 
 
 
 ## Prerequisites
