@@ -74,7 +74,7 @@ and if a face is detected, it will be mosaicked.
    -h, --help
    ```
 
-CSIカメラを使用する場合はこのオプションを追加する
+If you use CSI cameras, add this option 
    ```
    --csi
    ```
