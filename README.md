@@ -74,13 +74,14 @@ and if a face is detected, it will be mosaicked.
    -h, --help
    ```
 
-If you use CSI cameras, add this option 
+If you use CSI cameras, add this option. 
    ```
    --csi
    ```
 
-モザイクの粗さを変更する 
-0～99 を設定可能で、99が最も粗くなります
+Change the coarseness of the mosaic. 
+
+Can be set from 0 to 99, 99 being the coarsest.
    ```
    -r, --roughness 
    ```
