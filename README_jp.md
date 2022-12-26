@@ -66,7 +66,7 @@ Jetson nanoに接続した USBウェブカメラ または CSIカメラの映像
 コマンドを実行すると、カメラの映像が出力され  
 カメラに顔が映ると、モザイクがかかります
 
-![動画実行サンプル](https://user-images.githubusercontent.com/121159170/208865003-4bcd88eb-7852-4078-879d-f4cd0069e608.PNG)
+![動画実行サンプル_600p](https://user-images.githubusercontent.com/121159170/209489999-98afaef8-1519-4682-a2f0-21c0419940a4.png)
 
 #### オプション
 ヘルプ画面を表示する
@@ -85,7 +85,7 @@ CSIカメラを使用する場合はこのオプションを追加する
    -r, --roughness 
    ```
 
-![粗さ](https://user-images.githubusercontent.com/121159170/208866923-0a131d6d-b282-4c45-9ebe-e2769be5a6a1.PNG)
+![モザイクの粗さ_600p](https://user-images.githubusercontent.com/121159170/209489907-a6c4203a-bf43-41a1-a28a-52a4b8d9e3c6.png)
 
 使用するカメラの番号を選択する (参照：/dev/video*)
    ```
