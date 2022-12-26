@@ -80,7 +80,6 @@ If you use CSI cameras, add this option.
    ```
 
 Change the coarseness of the mosaic. 
-
 Can be set from 0 to 99, 99 being the coarsest.
    ```
    -r, --roughness 
