@@ -14,9 +14,9 @@
 
 
 ## Operation overview
-Jetson nanoに接続した USBウェブカメラ または CSIカメラの映像から人の正面の顔を検出し、  
-リアルタイムで、目元 または 顔全体にモザイク処理を行います。  
-複数人の顔を同時に検出することができ、モザイクの粗さをオプションで変更することもできます。  
+The eye_mosaic project detects the front face of a person from the image of a USB webcam or CSI camera connected to Jetson nano,
+Mosaic the eyes or the entire face in real time.
+Multiple faces can be detected at the same time, and the coarseness of the mosaic can be changed as an option. 
 
 
 ## Prerequisites
