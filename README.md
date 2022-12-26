@@ -7,10 +7,10 @@
 
 
 ## table of contents
-- [Operation overview](https://github.com/CosmorootMcs/eye_mosaic#%E5%8B%95%E4%BD%9C%E6%A6%82%E8%A6%81)
-- [Prerequisites](https://github.com/CosmorootMcs/eye_mosaic#%E5%89%8D%E6%8F%90%E3%81%A8%E3%81%99%E3%82%8B%E7%92%B0%E5%A2%83)
-- [Installation](https://github.com/CosmorootMcs/eye_mosaic#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95)
-- [Usage](https://github.com/CosmorootMcs/eye_mosaic#%E5%AE%9F%E8%A1%8C%E6%89%8B%E9%A0%86)
+- [Operation overview](https://github.com/CosmorootMcs/eye_mosaic#operation-overview)
+- [Prerequisites](https://github.com/CosmorootMcs/eye_mosaic#prerequisites)
+- [Installation](https://github.com/CosmorootMcs/eye_mosaic#installation)
+- [Usage](https://github.com/CosmorootMcs/eye_mosaic#usage)
 
 
 ## Operation overview
@@ -33,6 +33,7 @@ Install this application.
 Install the dependent modules.
    ```
    $ cd eye_mosaic
+   
    $ pip3 install -r requirements.txt
    ```
 
@@ -66,7 +67,7 @@ Press Q to quit the application.
 When you run the application, the image of the camera is output,  
 and if a face is detected, it will be mosaicked.
 
-![動画実行サンプル](https://user-images.githubusercontent.com/121159170/208865003-4bcd88eb-7852-4078-879d-f4cd0069e608.PNG)
+![動画実行サンプル_600p](https://user-images.githubusercontent.com/121159170/209489999-98afaef8-1519-4682-a2f0-21c0419940a4.png)
 
 #### オプション
 ヘルプ画面を表示する
@@ -85,7 +86,7 @@ CSIカメラを使用する場合はこのオプションを追加する
    -r, --roughness 
    ```
 
-![粗さ](https://user-images.githubusercontent.com/121159170/208866923-0a131d6d-b282-4c45-9ebe-e2769be5a6a1.PNG)
+![モザイクの粗さ_600p](https://user-images.githubusercontent.com/121159170/209489907-a6c4203a-bf43-41a1-a28a-52a4b8d9e3c6.png)
 
 使用するカメラの番号を選択する (参照：/dev/video*)
    ```
