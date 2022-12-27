@@ -42,7 +42,7 @@ Check the camera number and make a note of it.
    ```
    $ ls -la /dev/video*
    ```
-Navigate to the folder where you downloaded this app installation.
+Navigate to the folder where you downloaded this app.
    ```
    $ cd eye_mosaic
    ```
